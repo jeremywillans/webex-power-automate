@@ -1,10 +1,10 @@
 # Email2Webex
 
+[![Custom Connector](https://img.shields.io/badge/Custom%20Connector-Yes-red.svg?style=for-the-badge&logo=powerautomate)](https://github.com/jeremywillans/swagger-webex)
+
 Email2Webex is a Power Automate Flow allowing moving an Email thread to a new Webex Space if the assigned mailbox is included in the BCC List.
 
 This flow can use either a local or shared mailbox for processing requests.
-
-[![Custom Connector](https://img.shields.io/badge/Uses%20Custom%20Connector-Yes-red.svg?style=for-the-badge&logo=powerautomate)](https://github.com/jeremywillans/swagger-webex)
 
 ![flow.png](flow.png)
 
